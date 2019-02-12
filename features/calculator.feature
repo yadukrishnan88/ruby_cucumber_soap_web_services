@@ -1,4 +1,4 @@
-Feature: Usergit s can perform the basic mathematical operations of addition, subtraction, multiplication and division through
+Feature: Users can perform the basic mathematical operations of addition, subtraction, multiplication and division through
   a SOAP request
 
   Background:
