@@ -1,6 +1,7 @@
 require 'savon'
 require 'cucumber'
 require 'yaml'
+require 'colorize'
 require 'require_all'
 require_all 'lib'
 
