@@ -1,3 +1,4 @@
+
 Given(/^I am posting a SOAP request to the calculator webservice$/) do
   @calculator = @ws
   @calculator.get_actions

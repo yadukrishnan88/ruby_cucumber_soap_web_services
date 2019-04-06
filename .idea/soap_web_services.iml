@@ -12,6 +12,7 @@
     <orderEntry type="library" scope="PROVIDED" name="builder (v3.2.3, ruby-2.6.0-p0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="bundler (v2.0.1, ruby-2.6.0-p0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="childprocess (v0.9.0, ruby-2.6.0-p0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="colorize (v0.8.1, ruby-2.6.0-p0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="cucumber (v3.1.2, ruby-2.6.0-p0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="cucumber-core (v3.2.1, ruby-2.6.0-p0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="cucumber-expressions (v6.0.1, ruby-2.6.0-p0) [gem]" level="application" />

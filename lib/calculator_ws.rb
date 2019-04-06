@@ -1,4 +1,6 @@
 require 'savon'
+require 'colorize'
+
 class CalculatorWS
   def initialize(wsdl)
     @client = Savon.client(wsdl: "#{wsdl}")
